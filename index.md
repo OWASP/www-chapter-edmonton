@@ -4,8 +4,9 @@ layout: col-sidebar
 title: OWASP Edmonton
 tags: example-tag
 level: 0
-
-region: Canada
+region: North America
+meetup-group: OWASP-Edmonton-Alberta-Meetup
+postal-code: T5J 0R2
 
 auto-migrated: 1
 
