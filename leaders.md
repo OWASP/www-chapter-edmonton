@@ -1,4 +1,4 @@
 ### Leaders
-* [Donald Ashdown](mailto:)
-* [Brad Ballard](mailto:)
+* [Donald Ashdown](mailto:donald.dashdown@owasp.org)
+* [Brad Ballard](mailto:brad.ballard@owasp.org)
 
