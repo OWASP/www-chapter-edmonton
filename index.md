@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Edmonton
 tags: edmonton
-region: NorthAmerica
+region: North America
 meetup-group: OWASP-Edmonton-Alberta-Meetup
 postal-code: T5J 0R2
 
@@ -16,12 +16,17 @@ Welcome!
 Welcome to the OWASP Edmonton Chapter!
 
 We are excited to offer a place to collaberate and grow Cybersecurity in the Edmonton area.
-
-
+<!-- event template --- copy and paste 
+#### **Sunday October 1 2022 3 PM - Backdoors and Breaches** at Beer Revolution. (1736 104 Ave NW, Edmonton, AB)
+ 
+Backdoors & Breaches is an Incident Response Card Game, from Black Hills Information Security and Active Countermeasures. Backdoors & Breaches contains 52 unique cards to help you conduct incident response tabletop exercises and learn attack tactics, tools, and methods.
+ -->
+ 
 ### Upcoming meetings and events
  #### **Sunday October 1 2022 3 PM - Backdoors and Breaches** at Beer Revolution. (1736 104 Ave NW, Edmonton, AB)
  
 Backdoors & Breaches is an Incident Response Card Game, from Black Hills Information Security and Active Countermeasures. Backdoors & Breaches contains 52 unique cards to help you conduct incident response tabletop exercises and learn attack tactics, tools, and methods.
+ 
  <!--**TBD - Guest speaker** some place sometime -->
  
 
