@@ -1,6 +1,6 @@
-<!--### Chapter Information
+### Chapter Information
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/meetup-group-opbybwve/)
+* [Social Link](#)
