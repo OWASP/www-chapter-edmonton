@@ -24,9 +24,9 @@ We are excited to offer a place to collaberate and grow Cybersecurity in the Edm
 <img src="assets/images/2.png" width="700px" height="500px">
 <h3> Tuesday September 20 2022 7:30 PM - Monthly presentation - Kurt Siefried- Hiring from the otherside</h3>
  
-Kurt Siefried - Hiring from the otherside: This is presentation with some actionable advice for job seekers. 
+Kurt Siefried - Hiring from the other side: This is a presentation with some actionable advice for job seekers.
 
-Kurt Seifried is an Information Security Strategist with real world experience: Red Hat Product Security (Cloud products), Director of IT Cloud Security Alliance, Open Source Security Podcast #osspodcast and member of the CVE Editorial Board (and issuer of ~6,000 CVEs). He has now moved into the world of Distributed Ledger technology (aka Blockchain) security.
+Kurt Seifried is an Information Security Strategist with real-world experience: Red Hat Product Security (Cloud products), Director of IT Cloud Security Alliance, Open Source Security Podcast #osspodcast and member of the CVE Editorial Board (and issuer of ~6,000 CVEs). He has now moved into the world of Distributed Ledger Technology (aka Blockchain) security.
  
  <img src="assets/images/1.png" width="700px" height="500px">
  <h3> Sunday October 2 2022 3 PM - Backdoors and Breaches at Beer Revolution. (1736 104 Ave NW, Edmonton, AB)</h3>
