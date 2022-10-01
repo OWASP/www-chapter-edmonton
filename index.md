@@ -39,7 +39,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 ### Contact
 
 Feel free to reach out! 
-<br>[Donald Ashdown](mailto:donald.dashdown@owasp.org)
+<br>[Donald Ashdown](mailto:donald.ashdown@owasp.org)
 <br>[Brad Ballard](mailto:brad.ballard@owasp.org)
 
 
