@@ -34,6 +34,11 @@ Kurt Seifried is an Information Security Strategist with real-world experience: 
  
 Backdoors & Breaches is an Incident Response Card Game, from Black Hills Information Security and Active Countermeasures. Backdoors & Breaches contains 52 unique cards to help you conduct incident response tabletop exercises and learn attack tactics, tools, and methods.
 
+<img src="assets/images/Cybera.png" width="700px" height="500px">
+ <h3> Tuesday October 18 2022 6:30 PM - Monthly presentation - Cybera</h3>
+ 
+Monthly presentation with Cybera - Creating a connected future for albertans.
+
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Contact
