@@ -25,12 +25,13 @@ The following is a list of organizations that have generously supported the OWAS
 <h2>Upcoming meetings and events</h2>
 
 <!-- Event template 
-<img src="assets/images/2.png" width="700px" height="500px">
-<h3> Tuesday September 20 2022 7:30 PM - Monthly presentation - Kurt Siefried- Hiring from the otherside</h3>
+<img src="assets/images/OWASPCTF.png" width="700px" height="500px">
+<h3> Saturday December 17th 2022 11:00am - SANS Kringle Con Holiday Hack Challenge & Lunch</h3>
  
-Kurt Siefried - Hiring from the other side: This is a presentation with some actionable advice for job seekers.
+Join the global cybersecurity community in its most festive cyber security challenge and virtual conference of the year. The SANS Holiday Hack Challenge is a FREE series of super fun, high-quality, hands-on cybersecurity challenges. The SANS Holiday Hack Challenge is for all skill levels, with a stellar prize at the end for the best of the best entries.
 
-Kurt Seifried is an Information Security Strategist with real-world experience: Red Hat Product Security (Cloud products), Director of IT Cloud Security Alliance, Open Source Security Podcast #osspodcast and member of the CVE Editorial Board (and issuer of ~6,000 CVEs). He has now moved into the world of Distributed Ledger Technology (aka Blockchain) security.
+https://www.sans.org/mlp/holiday-hack-challenge/
+
  -->
  
  <img src="assets/images/1.png" width="700px" height="500px">
