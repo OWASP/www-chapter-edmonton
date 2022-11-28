@@ -29,12 +29,12 @@ The following is a list of organizations that have generously supported the OWAS
 
 <h3> Saturday December 17th 2022 11:00am - SANS Kringle Con Holiday Hack Challenge & Lunch</h3>
  
-Join the global cybersecurity community in its most festive cyber security challenge and virtual conference of the year. The SANS Holiday Hack Challenge is a FREE series of super fun, high-quality, hands-on cybersecurity challenges. The SANS Holiday Hack Challenge is for all skill levels, with a stellar prize at the end for the best of the best entries.
+Join the Edmonton OWASP community for a festive afternoon of CTF's where we will all partake in the SANS Holiday Hack Challenge and enjoy lunch!
 
 https://www.sans.org/mlp/holiday-hack-challenge/
 
 
-Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+Our events are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Contact
 
