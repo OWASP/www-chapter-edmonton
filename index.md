@@ -25,7 +25,7 @@ The following is a list of organizations that have generously supported the OWAS
 <h2>Upcoming meetings and events</h2>
 
 
-<img src="assets/images/OWASPCTF.png" width="900px" height="500px">
+
 <h3> Saturday December 17th 2022 11:00am - SANS Kringle Con Holiday Hack Challenge & Lunch</h3>
  
 Join the global cybersecurity community in its most festive cyber security challenge and virtual conference of the year. The SANS Holiday Hack Challenge is a FREE series of super fun, high-quality, hands-on cybersecurity challenges. The SANS Holiday Hack Challenge is for all skill levels, with a stellar prize at the end for the best of the best entries.
