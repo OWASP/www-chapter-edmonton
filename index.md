@@ -33,23 +33,13 @@ Join the global cybersecurity community in its most festive cyber security chall
 https://www.sans.org/mlp/holiday-hack-challenge/
 
  -->
- 
- <img src="assets/images/1.png" width="700px" height="500px">
- <h3> Sunday October 2 2022 3 PM - Backdoors and Breaches at Beer Revolution. (11736 104 Ave NW, Edmonton, AB)</h3>
- 
-Backdoors & Breaches is an Incident Response Card Game, from Black Hills Information Security and Active Countermeasures. Backdoors & Breaches contains 52 unique cards to help you conduct incident response tabletop exercises and learn attack tactics, tools, and methods.
-
-<img src="assets/images/Cybera.png" width="700px" height="500px">
- <h3> Tuesday October 18 2022 6:30 PM - Monthly presentation - Cybera</h3>
- 
-Monthly presentation with Cybera - Creating a connected future for albertans.
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Contact
 
 Feel free to reach out! 
-<br>[Donald Ashdown](mailto:donald.ashdown@owasp.org)
+<br>[Donald Ashdown](mailto:donald.ashdown@owasp.org) - Community Organizer 
 <br>[Brad Ballard](mailto:brad.ballard@owasp.org)
 
 
