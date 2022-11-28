@@ -24,7 +24,7 @@ The following is a list of organizations that have generously supported the OWAS
                                       
 <h2>Upcoming meetings and events</h2>
 
-<!-- Event template 
+ Event template 
 <img src="assets/images/OWASPCTF.png" width="700px" height="500px">
 <h3> Saturday December 17th 2022 11:00am - SANS Kringle Con Holiday Hack Challenge & Lunch</h3>
  
@@ -32,7 +32,6 @@ Join the global cybersecurity community in its most festive cyber security chall
 
 https://www.sans.org/mlp/holiday-hack-challenge/
 
- -->
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
