@@ -24,15 +24,12 @@ The following is a list of organizations that have generously supported the OWAS
                                       
 <h2>Upcoming events</h2>
 
-<img src="assets/images/Thumbnail Kringle.png" width="900px" height="500px">
+<img src="assets/images/Thumbnail Kringle.png" width="1000px" height="500px">
 
 
 <h3> Saturday December 17th 2022 11:00am - SANS Kringle Con Holiday Hack Challenge & Lunch</h3>
  
 Join the Edmonton OWASP community for a festive afternoon of CTF's where we will all partake in the SANS Holiday Hack Challenge and enjoy lunch!
-
-https://www.sans.org/mlp/holiday-hack-challenge/
-
 
 Our events are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
