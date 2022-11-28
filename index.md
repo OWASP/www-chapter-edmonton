@@ -30,7 +30,7 @@ The following is a list of organizations that have generously supported the OWAS
 Join the Edmonton OWASP community for a festive afternoon of CTF's where we will all partake in the SANS Holiday Hack Challenge and enjoy lunch!
  
 <h3> December 6th 2022 @ 6:30pm </h3>
-<img src="assets/images/CTF-event-dec.pngg" width="900px" height="500px">
+<img src="assets/images/CTF-event-dec.png" width="900px" height="500px">
 
 <h3> A virtual event where we do a walkthrough from a recent CTF</h3>
 
