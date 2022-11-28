@@ -24,7 +24,7 @@ The following is a list of organizations that have generously supported the OWAS
                                       
 <h2>Upcoming events</h2>
 
-<img src="assets/images/Thumbnail Kringle.png" width="700px" height="500px">
+<img src="assets/images/Thumbnail Kringle.png" width="900px" height="500px">
 
 
 <h3> Saturday December 17th 2022 11:00am - SANS Kringle Con Holiday Hack Challenge & Lunch</h3>
