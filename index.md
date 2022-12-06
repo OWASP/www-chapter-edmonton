@@ -39,7 +39,7 @@ Google Meet joining info
 Video call link: https://meet.google.com/ywp-nkbk-tcy
 Or dial: ‪(US) +1 224-706-0626‬ PIN: ‪392 935 472‬#
 
-
+-----------------------------------------------------------------------------------------------------------------------------------
 Our events are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Contact
