@@ -33,7 +33,11 @@ Join the Edmonton OWASP community for a festive afternoon of CTF's where we will
 <img src="assets/images/CTF-event-dec.png" width="900px" height="500px">
 
 <h3> A virtual event where we do a walkthrough from a recent CTF</h3>
-
+CTF Event Online
+Tuesday, December 6 · 6:30 – 8:30pm
+Google Meet joining info
+Video call link: https://meet.google.com/ywp-nkbk-tcy
+Or dial: ‪(US) +1 224-706-0626‬ PIN: ‪392 935 472‬#
 
 
 Our events are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
