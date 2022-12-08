@@ -21,6 +21,13 @@ We are excited to offer a place to collaberate and grow Cybersecurity in the Edm
 The following is a list of organizations that have generously supported the OWASP edmonton chapter through contributions.
 
 <img src="assets/images/Trellix-Logo-Black.svg" width="200px" height="100px">
+
+<h2>Upcoming Meetings</h2>
+<h3> Wednesday December 28th OWASP Edmonton Chapter General Meeting</h3>
+We will be hosting a meeting on Wednesday, December 28th 2022. Join us to discuss the Chapter's future and take care of Chapter business. Click this link to join the meeting. 
+
+meet.google.com/fbw-ekwy-czz
+
                                       
 <h2>Upcoming events</h2>
 
@@ -45,7 +52,7 @@ Our events are open to the public, and you do not need to be a member to attend.
 ### Contact
 
 Feel free to reach out! 
-<br>[Donald Ashdown](mailto:donald.ashdown@owasp.org) - Community Organizer 
+<br>[Donald Ashdown](mailto:donald.ashdown@owasp.org) - Community Organizer
 <br>[Brad Ballard](mailto:brad.ballard@owasp.org)
 
 
