@@ -26,7 +26,7 @@ The following is a list of organizations that have generously supported the OWAS
 <h3> Wednesday December 28th OWASP Edmonton Chapter General Meeting</h3>
 We will be hosting a meeting on Wednesday, December 28th 2022. Join us to discuss the Chapter's future and take care of Chapter business. Click this link to join the meeting. 
 
-meet.google.com/fbw-ekwy-czz
+https://meet.google.com/fbw-ekwy-czz
 
                                       
 <h2>Upcoming events</h2>
