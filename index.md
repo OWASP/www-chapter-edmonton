@@ -32,8 +32,7 @@ https://meet.google.com/fbw-ekwy-czz
 <h2>Upcoming events</h2>
 
 <h3> Saturday December 17th 2022 11:00am </h3>
-<img src="assets/images/Thumbnail Kringle.png" width="900px" height="500px">
-<h3> SANS Kringle Con Holiday Hack Challenge & Lunch</h3>
+<h3> CANCLED SANS Kringle Con Holiday Hack Challenge & Lunch CANCLED </h3>
 Join the Edmonton OWASP community for a festive afternoon of CTF's where we will all partake in the SANS Holiday Hack Challenge and enjoy lunch!
  
 <h3> December 6th 2022 @ 6:30pm </h3>
