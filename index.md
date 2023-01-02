@@ -20,7 +20,7 @@ We are excited to offer a place to collaberate and grow Cybersecurity in the Edm
 <h2>Chapter Supporters</h2>
 The following is a list of organizations that have generously supported the OWASP edmonton chapter through contributions.
 
-<img src="assets/images/Trellix-Logo-Black.svg" width="200px" height="100px">
+<img src="assets/images/Trellix-Logo-Black.svg" width="900px" height="500px">
 
 <h2>Upcoming Meetings</h2>
 <h3> Tuesday January 2nd OWASP Edmonton CTF Event </h3>
