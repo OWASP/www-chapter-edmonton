@@ -24,6 +24,7 @@ The following is a list of organizations that have generously supported the OWAS
 
 <h2>Upcoming Meetings</h2>
 <h3> Tuesday January 2nd OWASP Edmonton CTF Event </h3>
+<img src="assets/images/Edm Chapter.png" width="200px" height="100px">
 
 We will be working on a live Attack and Defend scenario from the Try Hack Me platform, in particular, king of the hill. 
 The goal of this meeting is to bring OWASP edmonton members together and provide a valuable networking/learning experience. 
