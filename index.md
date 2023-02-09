@@ -45,7 +45,16 @@ We will be working on a live Attack and Defend scenario from the Try Hack Me pla
 
 
 <h2>Upcoming events</h2>
+<h3> Febuary OWASP Edmonton Monthly Presentation </h3>
+An in person event for all members hosted at Grant MacEwan.
 
+Presentation by Thomas Dang. 
+
+1. C2's What are they and how are they used in CTFs 
+2. Common C2s/The C2 Matrix
+3. Basic Metasploit demo
+4. Basic Sliver demo
+5. QA
 
 -----------------------------------------------------------------------------------------------------------------------------------
 Our events are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
