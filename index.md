@@ -46,7 +46,7 @@ We will be working on a live Attack and Defend scenario from the Try Hack Me pla
 
 <h2>Upcoming events</h2>
 <h3> Febuary OWASP Edmonton Monthly Presentation </h3>
-<img src="assets/images/2.png" width="900px" height="500px">
+<img src="assets/images/1.png" width="900px" height="500px">
 An in person event for all members hosted at Grant MacEwan.
 
 Presentation by Thomas Dang. 
