@@ -20,7 +20,14 @@ We are excited to offer a place to collaberate and grow Cybersecurity in the Edm
 <h2>Chapter Supporters</h2>
 The following is a list of organizations that have generously supported the OWASP edmonton chapter through contributions.
 
-<img src="assets/images/Trellix-Logo-Black.svg" width="400px" height="250px">
+<h2>Chapter Supporters Providing Space</h2>
+
+<img src="assets/images/Grant MacEwan.png" width="400px" height="250px">
+
+<h2>Chapter Supporters Providing Food</h2>
+
+<img src="assets/images/IonUnited.png" width="400px" height="250px">
+<img src="assets/images/CrowdStrike.png" width="400px" height="250px">
 
 <h2>Upcoming Meetings</h2>
 <h3> Tuesday January 2nd OWASP Edmonton CTF Event </h3>
