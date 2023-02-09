@@ -30,18 +30,19 @@ The following is a list of organizations that have generously supported the OWAS
 <img src="assets/images/CrowdStrike.png" width="600px" height="150px">
 
 <h2>Upcoming Meetings</h2>
-<h3> Tuesday January 2nd OWASP Edmonton CTF Event </h3>
+<h3> Febuary OWASP Edmonton Online CTF Event </h3>
 <img src="assets/images/Edm Chapter.png" width="900px" height="500px">
 
+An online event where we will work on Try Hack Me King of the Hill.
+
+Google Meet joining info
+CTF Online Event
+Tuesday, February 21 · 6:30 – 8:30pm
+Google Meet joining info
+Video call link: https://meet.google.com/uzv-zqcq-rsg
+Or dial: ‪(US) +1 904-580-8855‬ PIN: ‪495 302 301‬#
 We will be working on a live Attack and Defend scenario from the Try Hack Me platform, in particular, king of the hill. The goal of this meeting is to bring OWASP Edmonton members together and provide a valuable networking/learning experience.
 
-Click this link to join the meeting. 
-
-OWASP CTF Event Online
-Tuesday, January 3 · 6:30 – 7:30pm
-Google Meet joining info
-Video call link: https://meet.google.com/kny-teyz-fjv
-Or dial: ‪(US) +1 262-674-7776‬ PIN: ‪698 922 219‬#
 
 <h2>Upcoming events</h2>
 
