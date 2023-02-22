@@ -29,7 +29,7 @@ The following is a list of organizations that have generously supported the OWAS
 <img src="assets/images/IonUnited.png" width="600px" height="150px">
 <img src="assets/images/CrowdStrike.png" width="600px" height="150px">
 
-<h2>Upcoming Meetings</h2>
+<h2>Upcoming Events</h2>
 <h3> Febuary OWASP Edmonton Online CTF Event </h3>
 <img src="assets/images/Edm Chapter.png" width="900px" height="500px">
 
@@ -37,17 +37,17 @@ An online event where we will work on Try Hack Me King of the Hill.
 
 Google Meet joining info
 CTF Online Event
-Tuesday, February 21 · 6:30 – 8:30pm
+<b>Tuesday, February 21 · 6:30 – 8:30pm</b>
 Google Meet joining info
 Video call link: https://meet.google.com/uzv-zqcq-rsg
 Or dial: ‪(US) +1 904-580-8855‬ PIN: ‪495 302 301‬#
 We will be working on a live Attack and Defend scenario from the Try Hack Me platform, in particular, king of the hill. The goal of this meeting is to bring OWASP Edmonton members together and provide a valuable networking/learning experience.
 
 
-<h2>Upcoming events</h2>
+
 <h3> Febuary OWASP Edmonton Monthly Presentation </h3>
 <img src="assets/images/c2.png" width="900px" height="500px">
-An in person event for all members hosted at Grant MacEwan.
+An in person event for all members hosted at <b>Grant MacEwan in building 5, room 110.</b>
 
 Presentation by Thomas Dang. 
 
