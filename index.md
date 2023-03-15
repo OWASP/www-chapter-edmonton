@@ -23,11 +23,14 @@ The following is a list of organizations that have generously supported the OWAS
 <h2>Chapter Supporters Providing Space</h2>
 
 <img src="assets/images/Grant MacEwan.png" width="600px" height="150px">
+<img src="assets/images/norquest college.png" width="600px" height="150px">
 
 <h2>Chapter Supporters Providing Food</h2>
 
 <img src="assets/images/IonUnited.png" width="600px" height="150px">
 <img src="assets/images/CrowdStrike.png" width="600px" height="150px">
+<img src="assets/images/SentinelOne.png" width="600px" height="150px">
+
 
 <h2>Upcoming Events</h2>
 <h3> Febuary OWASP Edmonton Online CTF Event </h3>
