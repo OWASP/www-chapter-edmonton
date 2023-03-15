@@ -27,38 +27,37 @@ The following is a list of organizations that have generously supported the OWAS
 
 <h2>Chapter Supporters Providing Food</h2>
 
+<img src="assets/images/SentinelOne.png" width="600px" height="150px">
 <img src="assets/images/IonUnited.png" width="600px" height="150px">
 <img src="assets/images/CrowdStrike.png" width="600px" height="150px">
-<img src="assets/images/SentinelOne.png" width="600px" height="150px">
+
 
 
 <h2>Upcoming Events</h2>
-<h3> Febuary OWASP Edmonton Online CTF Event </h3>
-<img src="assets/images/Edm Chapter.png" width="900px" height="500px">
+<h3> The Art of Deception - Outsmarting the Attackers </h3>
+<img src="assets/images/mar29.png" width="900px" height="500px">
 
-An online event where we will work on Try Hack Me King of the Hill.
-
-Google Meet joining info
-CTF Online Event
-<b>Tuesday, February 21 · 6:30 – 8:30pm</b>
-Google Meet joining info
-Video call link: https://meet.google.com/uzv-zqcq-rsg
-Or dial: ‪(US) +1 904-580-8855‬ PIN: ‪495 302 301‬#
-We will be working on a live Attack and Defend scenario from the Try Hack Me platform, in particular, king of the hill. The goal of this meeting is to bring OWASP Edmonton members together and provide a valuable networking/learning experience.
+Location
+10215 108 St NW, Edmonton, AB T5J 1L6
+Room 2-013 - SCFL - Downtown
 
 
+## About The Event###
 
-<h3> Febuary OWASP Edmonton Monthly Presentation </h3>
-<img src="assets/images/c2.png" width="900px" height="500px">
-An in person event for all members hosted at <b>Grant MacEwan in building 5, room 110.</b>
+🍗🍗🍗 🥤🥤🥤 🏆🏆🏆
+RSVP for CATERING COMPANY + DOOR PRIZES
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+https://www.meetup.com/meetup-group-opbybwve/
 
-Presentation by Thomas Dang. 
+SentinelOne is sending a squadron of their finest experts to share their knowledge on the elusive art of MITRE deception.
 
-1. C2's What are they and how are they used in CTFs 
-2. Common C2s/The C2 Matrix
-3. Basic Metasploit demo
-4. Basic Sliver demo
-5. QA
+As a pioneering force in this field, they will be providing not only a delectable BBQ DINNER catered by Edmonton's local CORNERSTONE BBQ, but also valuable insights on how to outsmart the crafty attackers. Think of it as a masterclass on the tactics and strategies needed to protect your organization from cyber-attacks.
+
+In the words of the renowned ancient Chinese general Sun Tzu, "All warfare is based on deception." And just as Sun Tzu believed in the importance of deception in warfare, Sentinel One understands the significance of deception in the ever-evolving battlefield of cybersecurity. So, join us for this informative session, and let's learn how to effectively deploy deception techniques to turn the tables on attackers.
+
+
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------
 Our events are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
