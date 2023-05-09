@@ -34,27 +34,31 @@ The following is a list of organizations that have generously supported the OWAS
 
 
 <h2>Upcoming Events</h2>
-<h3> The Art of Deception - Outsmarting the Attackers </h3>
-<img src="assets/images/mar29.png" width="900px" height="500px">
+<h3> Securing Docker to protect the host </h3>
+<img src="assets/images/may 31 docker security.png" width="900px" height="500px">
 
-Location
+Location:
 10215 108 St NW, Edmonton, AB T5J 1L6
-Room 2-013 - SCFL - Downtown
+SCFL 3-110 (Singmar Center For Learning, 3rd floor, Room 110)
 
 
 ## About The Event###
-
-🍗🍗🍗 🥤🥤🥤 🏆🏆🏆
-RSVP for CATERING COMPANY + DOOR PRIZES
+🍕🍕🍕🍕🥤🥤🥤 🏆🏆🏆
+RSVP For Pizza + DOOR PRIZES
 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 https://www.meetup.com/meetup-group-opbybwve/
 
-SentinelOne is sending a squadron of their finest experts to share their knowledge on the elusive art of MITRE deception.
 
-As a pioneering force in this field, they will be providing not only a delectable BBQ DINNER catered by Edmonton's local CORNERSTONE BBQ, but also valuable insights on how to outsmart the crafty attackers. Think of it as a masterclass on the tactics and strategies needed to protect your organization from cyber-attacks.
+Join us for our monthly OWASP event where we will dive deep into Docker Security and the OWASP Top Ten for Docker. This month's event will focus on privilege escalation attacks from the HOST, a critical issue that every Docker user must be aware of.
 
-In the words of the renowned ancient Chinese general Sun Tzu, "All warfare is based on deception." And just as Sun Tzu believed in the importance of deception in warfare, Sentinel One understands the significance of deception in the ever-evolving battlefield of cybersecurity. So, join us for this informative session, and let's learn how to effectively deploy deception techniques to turn the tables on attackers.
+Our event sponsor is iON United, a trusted cybersecurity solution provider for IT, OT, and cloud environments within Canada.
+They be providing delicious pizza for all attendees, so come hungry and ready to learn!
 
+Our guest speaker for this event is John, an experienced security professional who has worked for Fortune 500 companies. With his extensive knowledge and expertise in Docker security, John will provide valuable insights and practical tips to help you secure your Docker environment.
+
+As Socrates once said, "The only true wisdom is in knowing you know nothing." Don't miss this opportunity to expand your knowledge and learn how to protect your Docker environment from privilege escalation attacks.
+
+We look forward to seeing you there!
 
 
 
