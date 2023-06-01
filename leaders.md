@@ -1,5 +1,6 @@
 ### Leaders
 * [Donald Ashdown](mailto:donald.ashdown@owasp.org)
 * [Brad Ballard](mailto:brad.ballard@owasp.org)
-* Harvinder Dhami
+* [Harvinder Dhami](mailto:harvinder.dhami@owasp.org)
+* [John Robbins](mailto:john.robbins@owasp.org)
 
