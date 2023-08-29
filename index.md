@@ -15,10 +15,10 @@ Welcome!
 
 Welcome to the OWASP Edmonton Chapter!
 
-We are excited to offer a place to collaberate and grow Cybersecurity in the Edmonton area.
+We are excited to offer a place to collaborate and grow Cybersecurity in the Edmonton area.
 
 <h2>Chapter Supporters</h2>
-The following is a list of organizations that have generously supported the OWASP edmonton chapter through contributions.
+The following is a list of organizations that have generously supported the OWASP Edmonton chapter through contributions.
 
 <h2>Chapter Supporters Providing Space</h2>
 
@@ -34,32 +34,36 @@ The following is a list of organizations that have generously supported the OWAS
 
 
 <h2>Upcoming Events</h2>
-<h3> Securing Docker to protect the host </h3>
-<img src="assets/images/may 31 docker security.png" width="900px" height="500px">
+<h3> The Art of Deception - Outsmarting the Attackers</h3>
+<h2>WED, MAR 29 · 5:00 PM MDT</h2>
+https://www.meetup.com/meetup-group-opbybwve/events/292115758
 
 Location:
+Norquest College
 10215 108 St NW, Edmonton, AB T5J 1L6
-SCFL 3-110 (Singmar Center For Learning, 3rd floor, Room 110)
+Room 2-013 - SCFL - Downtown
 
 
-## About The Event###
-🍕🍕🍕🍕🥤🥤🥤 🏆🏆🏆
-RSVP For Pizza + DOOR PRIZES
-👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
-https://www.meetup.com/meetup-group-opbybwve/
+RSVP to attend – limited space available. This assists in fire code compliance and planning CATERING and DOOR PRIZES for everyone's enjoyment.
 
+🍗🍗🍗 🥤🥤🥤 🏆🏆🏆
 
-Join us for our monthly OWASP event where we will dive deep into Docker Security and the OWASP Top Ten for Docker. This month's event will focus on privilege escalation attacks from the HOST, a critical issue that every Docker user must be aware of.
+Event Description:
 
-Our event sponsor is iON United, a trusted cybersecurity solution provider for IT, OT, and cloud environments within Canada.
-They be providing delicious pizza for all attendees, so come hungry and ready to learn!
+Embark on a transformative journey into Canada's cybersecurity landscape, at the OWASP Edmonton chapter event on August 31st. Proudly sponsored by Fortinet. Delve into the groundbreaking Bill C-26, which lays the foundation for safeguarding critical infrastructure. From dissecting amendments to the telecommunications act to navigating the powers granted to the government under the Critical Cyber Systems Protection Act. This event is made possible with Fortinet's support. We will unravel the core requirements and demonstrate how evolving security operations lead to compliance. Join us for insightful discussions, network with Fortinet experts, and savour a delightful array of appetizers as we decode the future of cybersecurity together. Admission is free, however you must RSVP to attend the event. The knowledge gained is priceless. Secure your spot today and be part of the cybersecurity evolution with Fortinet.
 
-Our guest speaker for this event is John, an experienced security professional who has worked for Fortune 500 companies. With his extensive knowledge and expertise in Docker security, John will provide valuable insights and practical tips to help you secure your Docker environment.
+Culinary Note:
 
-As Socrates once said, "The only true wisdom is in knowing you know nothing." Don't miss this opportunity to expand your knowledge and learn how to protect your Docker environment from privilege escalation attacks.
+Fortinet, a leading name in cybersecurity, will be treating attendees to a selection of delicious appetizers and finger foods. Featuring options to accommodate various dietary preferences. Please your palate with anticipated delights such as gyoza, sliders, wings, and more. All thoughtfully provided by Fortinet. While exact items may change, you're in for a gastronomic treat. Reserve your spot now to experience the event, expert insights, and our caterer's culinary excellence firsthand!
 
-We look forward to seeing you there!
+Date & Time:
 
+August 31st, 5:00 PM - 6:30 PM
+
+Location:
+Norquest College
+10215 108 St NW, Edmonton, AB T5J 1L6
+Room 2-013 - SCFL - Downtown
 
 
 
