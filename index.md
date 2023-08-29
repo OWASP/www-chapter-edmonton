@@ -34,7 +34,6 @@ The following is a list of organizations that have generously supported the OWAS
 
 
 <h2>Upcoming Events</h2>
-<img src="https://secure.meetupstatic.com/photos/event/7/2/d/b/600_515189403.webp?w=384" width="900px" height="500px">
 <h3> The Art of Deception - Outsmarting the Attackers</h3>
 <h2>WED, MAR 29 · 5:00 PM MDT</h2>
 https://www.meetup.com/meetup-group-opbybwve/events/292115758
