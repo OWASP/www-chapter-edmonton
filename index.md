@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Edmonton
-tags: edmonton
+tags: Edmonton
 region: North America
 meetup-group: meetup-group-opbybwve
 postal-code: T5J 0R2
@@ -42,8 +42,8 @@ Location:
 Norquest College
 10215 108 St NW, Edmonton, AB T5J 1L6
 Room 2-205 - CELT - Downtown
-https://www.meetup.com/meetup-group-opbybwve/events/292115758
-RSVP to attend – limited space available. This assists in fire code compliance and planning CATERING and DOOR PRIZES for everyone's enjoyment.
+
+[https://www.meetup.com/meetup-group-opbybwve/events/292115758](https://www.meetup.com/meetup-group-opbybwve/events/296139404/)
 
 🍗🍗🍗 🥤🥤🥤 🏆🏆🏆
 RSVP to attend – limited space available. This assists in fire code compliance and planning CATERING and DOOR PRIZES for everyone's enjoyment.
