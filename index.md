@@ -34,37 +34,46 @@ The following is a list of organizations that have generously supported the OWAS
 
 
 <h2>Upcoming Events</h2>
-<h3> The Art of Deception - Outsmarting the Attackers</h3>
-<h2>WED, MAR 29 · 5:00 PM MDT</h2>
-https://www.meetup.com/meetup-group-opbybwve/events/292115758
+<h3> Exploring MITRE ATT&CK Framework Adoption With Cybera</h3>
+Date & Time:
+October 4th, 5:00 PM -6:30 PM
 
 Location:
 Norquest College
 10215 108 St NW, Edmonton, AB T5J 1L6
-Room 2-013 - SCFL - Downtown
-
-
+Room 2-205 - CELT - Downtown
+https://www.meetup.com/meetup-group-opbybwve/events/292115758
 RSVP to attend – limited space available. This assists in fire code compliance and planning CATERING and DOOR PRIZES for everyone's enjoyment.
 
 🍗🍗🍗 🥤🥤🥤 🏆🏆🏆
+RSVP to attend – limited space available. This assists in fire code compliance and planning CATERING and DOOR PRIZES for everyone's enjoyment.
+🍗🍗🍗 🥤🥤🥤 🏆🏆🏆
 
 Event Description:
+Prepare to embark on a cybersecurity odyssey as OWASP Edmonton proudly presents an illuminating event in collaboration with Cybera, a cybersecurity trailblazer. Join us for a captivating session where Cybera will unravel their remarkable voyage through the MITRE ATT&CK framework and share invaluable lessons gleaned from their adoption journey.
 
-Embark on a transformative journey into Canada's cybersecurity landscape, at the OWASP Edmonton chapter event on August 31st. Proudly sponsored by Fortinet. Delve into the groundbreaking Bill C-26, which lays the foundation for safeguarding critical infrastructure. From dissecting amendments to the telecommunications act to navigating the powers granted to the government under the Critical Cyber Systems Protection Act. This event is made possible with Fortinet's support. We will unravel the core requirements and demonstrate how evolving security operations lead to compliance. Join us for insightful discussions, network with Fortinet experts, and savour a delightful array of appetizers as we decode the future of cybersecurity together. Admission is free, however you must RSVP to attend the event. The knowledge gained is priceless. Secure your spot today and be part of the cybersecurity evolution with Fortinet.
+Who is Cybera? (cybera.ca)
+Cybera is Alberta's research and education network facilitator, responsible for driving connections, collaborations and skills growth through the use of digital technology.
 
-Culinary Note:
+Their mission is to connect Alberta to the world, enabling and advocating for better services, collaborations and skills growth through the use of digital technology.
 
-Fortinet, a leading name in cybersecurity, will be treating attendees to a selection of delicious appetizers and finger foods. Featuring options to accommodate various dietary preferences. Please your palate with anticipated delights such as gyoza, sliders, wings, and more. All thoughtfully provided by Fortinet. While exact items may change, you're in for a gastronomic treat. Reserve your spot now to experience the event, expert insights, and our caterer's culinary excellence firsthand!
+Their vision is to ensure a connected, secure and equitable digital future for every Albertan.
+
+Navigating the Adoption Process:
+Cybera will divulge their experiences, offering insights into the intricacies of implementing the MITRE ATT&CK framework. Explore the challenges they surmounted and the victories they achieved. Learn firsthand from their expedition through the cybersecurity landscape and how this framework fortified their defenses against cyber threats.
+
+Culinary & Sponsor Notes: ION United (ionunited.com)
+To fuel your cybersecurity exploration, ION United generously sponsors a delectable pizza feast for all attendees. Savor a slice while mingling with peers and immersing yourself in conversations about the ever-evolving cybersecurity landscape.
+
+Don't miss this unparalleled opportunity to broaden your horizons, gain practical insights, and expand your professional network. Whether you are a seasoned cybersecurity practitioner or a newcomer to the field, this event promises to inspire, inform, and empower.
 
 Date & Time:
-
-August 31st, 5:00 PM - 6:30 PM
+October 4th, 5:00 PM -6:30 PM
 
 Location:
 Norquest College
 10215 108 St NW, Edmonton, AB T5J 1L6
-Room 2-013 - SCFL - Downtown
-
+Room 2-205 - CELT - Downtown
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
