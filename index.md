@@ -9,7 +9,9 @@ meetup-group: meetup-group-opbybwve
 postal-code: T5J 0R2
 
 ---
+meetup-group: OWASP-Edmonton-Chapter
 
+. {% include chapter_events.html group=page.meetup-group %}
 
 Welcome!
 -----------------
