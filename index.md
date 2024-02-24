@@ -24,7 +24,8 @@ We are excited to offer a place to collaborate and grow Cybersecurity in the Edm
 The following is a list of organizations that have generously supported the OWASP Edmonton chapter through contributions.
 
 <h2>Chapter Supporters Providing Space</h2>
-
+<img src="assets/images/MNP.png" width="600px" height="150px">
+<img src="assets/images/concordia_logo.png" width="600px" height="150px">
 <img src="assets/images/Grant MacEwan.png" width="600px" height="150px">
 <img src="assets/images/norquest college.png" width="600px" height="150px">
 
