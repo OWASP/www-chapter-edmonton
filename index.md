@@ -35,7 +35,7 @@ The following is a list of organizations that have generously supported the OWAS
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/images/MNP.png" width="600px" height="150px"></td>
+      <td><img src="assets/images/MNP.png" width="200px" height="50px"></td>
       <td>More Data</td>
       <td>Even More Data</td>
     </tr>
