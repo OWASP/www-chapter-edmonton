@@ -5,7 +5,7 @@ title: OWASP Edmonton
 tags: Edmonton
 region: North America
 country: Canada 
-meetup-group: meetup-group-opbybwve
+meetup-group: owasp-edmonton
 postal-code: T5J 0R2
 
 ---
