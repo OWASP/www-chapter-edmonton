@@ -36,13 +36,13 @@ The following is a list of organizations that have generously supported the OWAS
   <tbody>
     <tr>
       <td><img src="assets/images/MNP.png" width="200px" height="50px"></td>
-      <td>img src="assets/images/Concordia 2.png" width="600px" height="150px"</td>
+      <td><img src="assets/images/Concordia 2.png" width="200px" height="50px"></td>
       <td>Even More Data</td>
     </tr>
     <tr>
-      <td>"assets/images/Grant MacEwan.png" width="600px" height="150px"</td>
-      <td>"assets/images/norquest college.png" width="600px" height="150px"</td>
-      <td>"assets/images/SentinelOne.png" width="600px" height="150px"</td>
+      <td><img src="assets/images/Grant MacEwan.png" width="200px" height="50px"></td>
+      <td><img src="assets/images/norquest college.png" width="200px" height="50px"></td>
+      <td><img src="assets/images/SentinelOne.png" width="200px" height="50px"></td>
     </tr>
   </tbody>
 </table>
