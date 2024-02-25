@@ -44,6 +44,11 @@ The following is a list of organizations that have generously supported the OWAS
       <td><img src="assets/images/norquest college.png" width="200px" height="50px"></td>
       <td><img src="assets/images/SentinelOne.png" width="200px" height="50px"></td>
     </tr>
+    <tr>
+      <td><img src="assets/images/CrowdStrike.png" width="600px" height="150px"></td>
+      <td><img src="assets/images/norquest college.png" width="200px" height="50px"></td>
+      <td><img src="assets/images/SentinelOne.png" width="200px" height="50px"></td>
+    </tr>
   </tbody>
 </table>
 
