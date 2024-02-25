@@ -37,7 +37,7 @@ The following is a list of organizations that have generously supported the OWAS
     <tr>
       <td><img src="assets/images/MNP.png" width="200px" height="50px"></td>
       <td><img src="assets/images/Concordia 2.png" width="200px" height="50px"></td>
-      <td>Even More Data</td>
+      <td><img src="assets/images/IonUnited.png" width="200px" height="50px"></td>
     </tr>
     <tr>
       <td><img src="assets/images/Grant MacEwan.png" width="200px" height="50px"></td>
@@ -50,8 +50,8 @@ The following is a list of organizations that have generously supported the OWAS
 
 <h2>Chapter Supporters Providing Food</h2>
 
-<img src="assets/images/SentinelOne.png" width="600px" height="150px">
-<img src="assets/images/IonUnited.png" width="600px" height="150px">
+
+
 <img src="assets/images/CrowdStrike.png" width="600px" height="150px">
 
 
