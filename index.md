@@ -35,12 +35,12 @@ The following is a list of organizations that have generously supported the OWAS
   </thead>
   <tbody>
     <tr>
-      <td>Data</td>
+      <td>assets/images/MNP.png</td>
       <td>More Data</td>
       <td>Even More Data</td>
     </tr>
     <tr>
-      <td>Hello</td>
+      <td>assets/images/Concordia 2.png</td>
       <td>New</td>
       <td>World</td>
     </tr>
