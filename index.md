@@ -9,7 +9,7 @@ meetup-group: meetup-group-opbybwve
 postal-code: T5J 0R2
 
 ---
-meetup-group: meetup-group-opbybwve
+meetup-group: owasp-edmonton
 
 . {% include chapter_events.html group=page.meetup-group %}
 
