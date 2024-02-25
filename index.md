@@ -46,7 +46,7 @@ The following is a list of organizations that have generously supported the OWAS
     </tr>
     <tr>
       <td><img src="assets/images/CrowdStrike.png" width="200px" height="50px"></td>
-      <td><img src="assets/images/Fortinet.png" width="200px" height="50px"></td>
+      <td><img src="assets/images/fortinet-logo2.png" width="200px" height="50px"></td>
       <td><img src="assets/images/OPTIV.png" width="200px" height="50px"></td>
   </tbody>
 </table>
