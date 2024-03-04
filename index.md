@@ -23,7 +23,7 @@ We are excited to offer a place to collaborate and grow Cybersecurity in the Edm
 <h2>Chapter Supporters</h2>
 The following is a list of organizations that have generously supported the OWASP Edmonton chapter through contributions.
 
-<h2>Chapter Supporters Providing Space</h2>
+<h2>Chapter Supporters</h2>
 
 <table>
   <thead>
