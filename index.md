@@ -45,10 +45,11 @@ We are excited to offer a place to collaborate and grow Cybersecurity in the Edm
         <td><img src="assets/images/CrowdStrike.png" width="200px" height="50px"></td>
         <td><img src="assets/images/fortinet-logo2.png" width="200px" height="50px"></td>
         <td><img src="assets/images/OPTIV.png" width="200px" height="50px"></td>
+      </tr>
     </tbody>
   </table>
 
------------------------------------------------------------------------------------------------------------------------------------
+
 Our events are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Contact
