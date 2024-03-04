@@ -15,7 +15,8 @@ meetup-group: owasp-edmonton
 
 Welcome!
 -----------------
-![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=p1TMQ4lQjmI)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p1TMQ4lQjmI/0.jpg)](https://www.youtube.com/watch?v=p1TMQ4lQjmI)
 
 Welcome to the OWASP Edmonton Chapter!
 
