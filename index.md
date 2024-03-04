@@ -56,7 +56,7 @@ Our events are open to the public, and you do not need to be a member to attend.
 
 Feel free to reach out! 
 <br>[Donald Ashdown](mailto:donald.ashdown@owasp.org) - Community Organizer
-<br>[Brad Ballard](mailto:brad.ballard@owasp.org)
+<br>[Brad Ballard](mailto:brad.ballard@owasp.org) - Administration 
 
 
 
