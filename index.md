@@ -3,35 +3,41 @@
 layout: col-sidebar
 title: OWASP Edmonton
 tags: Edmonton
+
 region: North America
-country: Canada 
+
+altfooter: true
 meetup-group: owasp-edmonton
+country: Canada
 postal-code: T5J 0R2
 
 ---
-meetup-group: owasp-edmonton
-
-. {% include chapter_events.html group=page.meetup-group %}
+<!-- rebuild -->
+<strong>Home</strong>
+&nbsp;&nbsp;&nbsp;[Sponsorships](sponsorship.md)
 
 Welcome!
------------------
+-------
+- Welcome to the Edmonton chapter homepage.
+- We are excited to offer a place to collaborate and grow Cybersecurity in the Edmonton area.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p1TMQ4lQjmI/0.jpg)](https://www.youtube.com/watch?v=p1TMQ4lQjmI)
+<div><iframe 
+width="640" 
+height="360" 
+src="https://www.youtube.com/embed/p1TMQ4lQjmI" 
+title="🎉 Get ready for a thrilling journey with OWASP Edmonton in 2024! 🎉" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen></iframe></div>
 
-Welcome to the OWASP Edmonton Chapter!
 
-We are excited to offer a place to collaborate and grow Cybersecurity in the Edmonton area.
+<hr/>
+## Upcoming Events ##
+<hr>
 
 <h2>Chapter Supporters</h2>
 
   <table>
-    <thead>
-      <tr>
-        <th>Heading 1</th>
-        <th>Heading 2</th>
-        <th>Heading 3</th>
-      </tr>
-    </thead>
     <tbody>
       <tr>
         <td><img src="assets/images/MNP.png" width="200px" height="50px"></td>
@@ -59,7 +65,4 @@ Our events are open to the public, and you do not need to be a member to attend.
 Feel free to reach out! 
 <br>[Donald Ashdown](mailto:donald.ashdown@owasp.org) - Community Organizer
 <br>[Brad Ballard](mailto:brad.ballard@owasp.org) - Administration 
-
-
-
 
