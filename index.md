@@ -99,7 +99,7 @@ Feel free to reach out!
       <tr>
         <td><img src="assets/images/CrowdStrike.png" width="200px" height="50px"></td>
         <td><img src="assets/images/fortinet-logo2.png" width="200px" height="50px"></td>
-        <td><img src="assets/images/OPTIV.png" width="200px" height="50px"></td>
+        <td><img src="assets/images/HoxHunt.png" width="200px" height="50px"></td>
       </tr>
     </tbody>
   </table>
