@@ -3,3 +3,4 @@
 * [Brad Ballard](mailto:brad.ballard@owasp.org)
 * [Dema Gorkun](mailto:dema.gorkun@owasp.org)
 * [Oksana Jakovleva](mailto:oksana.jakovleva@owasp.org)
+* [Masha Antoshkina](mailto:masha.antoshkina@owasp.org)
