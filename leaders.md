@@ -4,3 +4,5 @@
 * [Dema Gorkun](mailto:dema.gorkun@owasp.org)
 * [Masha Antoshkina](mailto:masha.antoshkina@owasp.org)
 * [Mitch Bonaccorso](mailto:mitch.bonaccorso@owasp.org)
+* [Kelvin Creighton](mailto:kelvin.creighton@owasp.org)
+
