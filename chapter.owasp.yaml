@@ -1,0 +1,34 @@
+community:
+  - name: chapter-edmonton
+    platform: slack
+    url: https://owasp.slack.com/archives/C09HFMC4M8E
+leaders:
+  - name: Donald Ashdown
+    email: donald.ashdown@owasp.org
+  - name: Brad Ballard
+    email: brad.ballard@owasp.org
+  - name: Dema Gorkun
+    email: dema.gorkun@owasp.org
+  - name: Oksana Jakovleva
+    email: oksana.jakovleva@owasp.org
+  - name: Masha Antoshkina
+    email: masha.antoshkina@owasp.org
+location:
+  country: Canada
+  country_code: CA
+  region: Alberta
+  city: Edmonton
+  postal_code: T5J 0R2
+  latitude: 53.567694849999995
+  longitude: -113.36720443411471
+meetup_group: owasp-edmonton
+name: OWASP Edmonton
+repositories:
+  - name: www-chapter-edmonton
+    url: https://github.com/OWASP/www-chapter-edmonton
+    description: OWASP Foundation Web Repository
+tags:
+  - Edmonton
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-edmonton
